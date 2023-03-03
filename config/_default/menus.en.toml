@@ -11,30 +11,23 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
-  weight = 10
-
-[[main]]
   name = "Games"
-  weight = 20
+   weight = 10
 
 [[main]]
   name = "Deadpoly"
   parent = "Games"
-  pageRef = "deadpoly"
-  weight = 10
+  pageRef = "/deadpoly"
 
 [[main]]
   name = "Grounded"
   parent = "Games"
-  pageRef = "grounded"
-  weight = 20
+  pageRef = "/grounded"
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+  name = "Site News"
+  pageRef = "/site news"
+   weight = 30
 
 
 # -- Footer Menu --
@@ -43,11 +36,16 @@
 
 
  [[footer]]
-   name = "Tags"
-   pageRef = "tags"
+   name = "Site News"
+   pageRef = "blog"
    weight = 10
 
  [[footer]]
-   name = "Categories"
-   pageRef = "categories"
+   name = "Deadpoly"
+   pageRef = "deadpoly"
    weight = 20
+
+ [[footer]]
+   name = "Grounded"
+   pageRef = "grounded"
+   weight = 30   
