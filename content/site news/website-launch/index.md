@@ -3,11 +3,8 @@ title: "Casual Survivors Launch"
 date: 2020-08-10
 draft: false
 description: "The Cascual Survivors, Mala Zedik and Katala Swiftwind, officially launch their website!"
-tags: ["Blog"]
-showAuthor: false
-authors:
-  - "mala"
-  - "kalata"
+tags: ["Site News"]
+showAuthor: true
 showAuthorsBadges : false 
 ---
 

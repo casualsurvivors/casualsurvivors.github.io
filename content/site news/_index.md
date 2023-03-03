@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Site News"
 description: "The latest information about the Casual Survivor Website."
 
 cascade:
@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Our Casual Survivor blog postings.
+Our Casual Survivor site news postings.
 {{< /lead >}}
 
 
