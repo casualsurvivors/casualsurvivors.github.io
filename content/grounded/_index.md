@@ -1,11 +1,6 @@
 ---
 title: "Grounded"
 description: "Your Casual resource for Grounded."
-
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
 ---
 
 {{< lead >}}
