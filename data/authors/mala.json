@@ -1,0 +1,11 @@
+{
+    "name": "Mala Zedik",
+    "image" : "img/author2.png",
+    "bio": "Co-Owner of Casual Survivors",
+    "social": [
+        { "twitter": "https://twitter.com/MalaZedik" },
+        { "youtube": "https://youtube.com/MalaZedik" },
+        { "github": "https://github.com/MalaZedik" },
+        { "reddit": "https://reddit.com/user/MalaZedik" }
+    ]
+}

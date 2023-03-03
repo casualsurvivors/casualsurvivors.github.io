@@ -2,18 +2,21 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
-# theme = "blowfish"
+theme = "blowfish"
 baseURL = "https://casualsurvivors.github.io"
 defaultContentLanguage = "en"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 paginate = 20
-summaryLength = 30
+summaryLength = 5
 
 buildDrafts = false
 buildFuture = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+googleAnalytics = "G-QED37LM6KH"
+
+[imaging]
+  anchor = 'Center'
 
 [taxonomies]
   tag = "tags"
