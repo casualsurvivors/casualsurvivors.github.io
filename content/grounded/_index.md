@@ -1,6 +1,10 @@
 ---
 title: "Grounded"
 description: "Your Casual resource for Grounded."
+
+cascade:
+  categories: ['Grounded']
+
 ---
 
 {{< lead >}}

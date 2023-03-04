@@ -1,6 +1,10 @@
 ---
 title: "Deadpoly"
 description: "Your Casual resource for Deadpoly."
+
+cascade:
+  categories: ['Deadpoly']
+
 ---
 
 {{< lead >}}
