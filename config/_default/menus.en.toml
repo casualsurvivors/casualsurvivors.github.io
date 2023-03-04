@@ -11,18 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Games"
+  name = "Games (Coming Soon)"
    weight = 10
 
-[[main]]
-  name = "Deadpoly"
-  parent = "Games"
-  pageRef = "/deadpoly"
+#[[main]]
+#  name = "Deadpoly"
+#  parent = "Games"
+#  pageRef = "/deadpoly"
 
-[[main]]
-  name = "Grounded"
-  parent = "Games"
-  pageRef = "/grounded"
+#[[main]]
+#  name = "Grounded"
+#  parent = "Games"
+#  pageRef = "/grounded"
+
+#[[main]]
+#  name = "Sons of the Forest"
+#  parent = "Games"
+#  pageRef = "/sons of the forest"
+
 
 [[main]]
   name = "Site News"

@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["site news", "deadpoly", "grounded"]
+mainSections = ["site news"]
 # robots = ""
 
 disableImageOptimization = false
