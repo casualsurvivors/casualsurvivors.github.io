@@ -10,7 +10,7 @@ logo = "img/cs_logo.webp"
 description = "Gaming News and Guides for Survivor Games"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "January 1, 2006"
+dateFormat = "January 2, 2006"
 
 [author]
   name = "Casual Survivors"
