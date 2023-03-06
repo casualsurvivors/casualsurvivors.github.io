@@ -1,8 +1,8 @@
 ---
-title: "Stun Baton Location"
+title: "Stun Baton"
 description: "Where to find the Stun Baton and the requirements to obtain it in the Sons of the Forest."
 summary: "Where to find the Stun Baton and the requirements to obtain it. Click here to learn it's location!"
-date: 2023-03-05T16:07:57-08:00
+date: 2023-03-04T16:07:57-08:00
 draft: false
 tags: ["Sons of the Forest", "Stun Baton", "POIs", "Item Location", "Map"]
 series: ["Item Locations"]
@@ -19,7 +19,7 @@ Where to find the Stun Baton and the requirements to obtain it.
 Some items have multiple locations or requirements to obtain them. Make sure to keep this in mind when looking over the map below.
 For the Stun Baton, no additional items are required. You just need to interact with it when you find it. 
 
-## Map
+## Map Location
 
 ![](img/map.webp)
 
