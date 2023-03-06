@@ -17,7 +17,7 @@ mainSections = ["site news", "sons of the forest"]
 
 disableImageOptimization = true
 
-defaultBackgroundImage = "/img/bg.png"
+defaultBackgroundImage = "/img/bg.webp"
 
 highlightCurrentMenuArea = true
 smartTOC = true
