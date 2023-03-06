@@ -15,7 +15,7 @@ enableCodeCopy = true
 mainSections = ["site news"]
 # robots = ""
 
-disableImageOptimization = false
+disableImageOptimization = true
 
 defaultBackgroundImage = "/img/bg.png"
 
