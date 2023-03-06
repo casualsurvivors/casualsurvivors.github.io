@@ -47,11 +47,13 @@
    weight = 10
 
  [[footer]]
-   name = "Deadpoly"
-   pageRef = "deadpoly"
+   name = "Authors"
+   pageRef = "authors"
    weight = 20
 
  [[footer]]
-   name = "Grounded"
-   pageRef = "grounded"
-   weight = 30   
+   pre = "Discord"
+   name = "Discord"
+   URL = "https://discord.gg/ZXp93XsKnN"
+   weight = 30
+

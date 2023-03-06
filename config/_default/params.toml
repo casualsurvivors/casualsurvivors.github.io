@@ -90,7 +90,7 @@ smartTOCHideUnfocusedChildren = true
   excludedKinds = []
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false
 
 [firebase]
   # apiKey = "XXXXXX"
