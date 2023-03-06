@@ -1,9 +1,10 @@
 ---
 title: "Sons of the Forest Hotfix 2"
+description: "Sons of the Forest Hotfix 2"
+summary: "All the information you need to know about the Sons of the Forest Hotfix 2"
 date: 2023-02-28
 draft: false
-description: "Sons of the Forest Hotfix 2"
-tags: ["Sons of the Forest Patch Notes"]
+tags: ["Sons of the Forest", "Hotfix 2", "Patch Notes", "Game Update", "New Content"]
 ---
 
 {{< lead >}}

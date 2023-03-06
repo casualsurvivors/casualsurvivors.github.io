@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = false
 paginate = 20
-summaryLength = 5
+summaryLength = 0
 
 buildDrafts = false
 buildFuture = false
