@@ -7,6 +7,8 @@ draft: false
 tags: ["Sons of the Forest", "Stun Baton", "POIs", "Item Location", "Map"]
 series: ["Item Locations"]
 series_order: 1
+authors:
+  - "mala"
 ---
 
 {{< lead >}}

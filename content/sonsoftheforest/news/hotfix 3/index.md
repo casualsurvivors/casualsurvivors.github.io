@@ -5,6 +5,8 @@ summary: "All the information you need to know about the Sons of the Forest Hotf
 date: 2023-03-01
 draft: false
 tags: ["Sons of the Forest", "Hotfix 3", "Patch Notes", "Game Update", "New Content"]
+authors:
+  - "mala"
 ---
 
 {{< lead >}}
