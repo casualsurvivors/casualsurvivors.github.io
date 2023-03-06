@@ -20,7 +20,7 @@ googleAnalytics = "G-QED37LM6KH"
 
 [taxonomies]
 #  tag = "tags"
-#  category = "categories"
+  category = "categories"
   author = "authors"
   series = "series"
 
