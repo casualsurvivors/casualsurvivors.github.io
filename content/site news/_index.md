@@ -2,6 +2,9 @@
 title: "Site News"
 description: "The latest information about the Casual Survivor Website."
 
+cascade:
+  categories: ['Site News']
+
 ---
 
 {{< lead >}}
