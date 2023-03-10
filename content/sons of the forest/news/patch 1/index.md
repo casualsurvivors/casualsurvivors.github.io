@@ -19,7 +19,7 @@ Below you can find the information for the first Hotfix for Sons of the Forest.
 
 Patch 1 - Hang gliders, Binoculars, Balance tweaks, Bug fixes and lots more!
 
-### Pwatch 1 Features
+### Patch 1 Features
  - Added Binoculars
  - Added Hang Glider
  - Added Defensive Wall gate
