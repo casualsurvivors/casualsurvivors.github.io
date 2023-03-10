@@ -6,7 +6,7 @@ date: 2023-03-05T19:07:57-08:00
 draft: false
 tags: ["Sons of the Forest", "Pistol", "POIs", "Item Location", "Map"]
 series: ["Item Locations"]
-series_order: 4
+series_order: 14
 authors:
   - "mala"
 ---

@@ -1,18 +1,21 @@
 ---
 title: "Flashlight"
 description: "Where to find the Flashlight and the requirements to obtain it in the Sons of the Forest."
-summary: "Where to find the Flashlight and the requirements to obtain it. Click here to learn it's location!"
+summary: "Where to find the Flashlight and the requirements to obtain it. Click here to learn more about it!"
+keywords: ["Sons of the Forest Flashlight"]
+tags: ["Sons of the Forest", "Flashlight", "POIs", "Item Location", "Map"]
+
 date: 2023-03-05T19:07:57-08:00
 draft: false
-tags: ["Sons of the Forest", "Flashlight", "POIs", "Item Location", "Map"]
+
 series: ["Item Locations"]
-series_order: 5
+series_order: 8
 authors:
   - "mala"
 ---
 
 {{< lead >}}
-Where to find the Flashlight and the requirements to obtain it.
+Where to find the Flashlight and the requirements to obtain it in the Sons of the Forest.
 {{< /lead >}}
 
 ## Requirements to Obtain
@@ -22,8 +25,7 @@ For the Flashlight, no additional items are required. You will need to cut the r
 ## Map Location
 ![](img/map.webp)
 
-![](img/gps-tracker.webp)
-You can also follow the Pink ! GPS Tracker icon on your map.
+![](img/gps-tracker.webp) You can also follow the Pink ! GPS Tracker icon on your map.
 
 ## Flashlight Location 1
 The green marker on the map above is location 1. Head to that spot on the map.

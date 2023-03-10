@@ -6,7 +6,7 @@ date: 2023-03-05T18:07:57-08:00
 draft: false
 tags: ["Sons of the Forest", "Machete", "POIs", "Item Location", "Map"]
 series: ["Item Locations"]
-series_order: 3
+series_order: 20
 authors:
   - "mala"
 ---

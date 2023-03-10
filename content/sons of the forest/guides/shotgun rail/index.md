@@ -1,12 +1,12 @@
 ---
 title: "Shotgun Rail"
 description: "Where to find the Shotgun Rail and the requirements to obtain it in the Sons of the Forest."
-summary: "Where to find the Shotgun Rail and the requirements to obtain it. Click here to learn it's location!"
+summary: "Where to find the Shotgun Rail and the requirements to obtain it. Click here to learn its location!"
 date: 2023-03-05T16:07:57-08:00
 draft: false
 tags: ["Sons of the Forest", "Shotgun Rail", "POIs", "Item Location", "Map"]
 series: ["Item Locations"]
-series_order: 2
+series_order: 20
 authors:
   - "mala"
 ---
