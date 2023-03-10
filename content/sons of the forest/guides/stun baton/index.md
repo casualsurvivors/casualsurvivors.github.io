@@ -6,7 +6,6 @@ tags: ["Sons of the Forest", "Stun Baton", "POIs", "Item Location", "Map"]
 keywords: ["Sons of the Forest Stun Baton"]
 date: 2023-03-04T16:07:57-08:00
 draft: false
-showTableOfContents: true
 series: ["Item Locations"]
 series_order: 24
 authors:
@@ -32,7 +31,7 @@ Thankfully the Stun Baton is not one of the items that require additional items 
 
 ## Stun Baton Map
 Below is a world map with all the known locations for the Stun Baton.
-![Sons of the Forest Flashlight Map Location](img/map.webp)
+![Sons of the Forest Stun Baton Map Location](img/map.webp)
 
 ## The Stun Baton Location #1
 The green marker on the map above is location 1. Head to that spot on the map and look for a small waterfall as seen below.
@@ -40,7 +39,7 @@ The stun baton will be in a pile of skulls. Don't mind the many skulls that the 
 
 ![Sons of the Forest Stun Baton](featured.webp)
 
-## Tips for Finding Stun Baton
+### Tips for Finding Stun Baton
 There is a cave just a stone's throw away on the map. It would be ideal to head toward the cave marker on your map as that will show up for you.
 Once at the cave entrance, you should be able to see the stream of water. Follow the stream away from the lake and towards the uphill direction.
 It shouldn't be more than 4-5 seconds away from the cave entrance. 
