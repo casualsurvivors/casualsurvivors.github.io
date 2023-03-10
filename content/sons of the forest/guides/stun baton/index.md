@@ -4,8 +4,10 @@ description: "Where to find the Stun Baton and the requirements to obtain it in 
 summary: "Where to find the Stun Baton and the requirements to obtain it. Click here to learn it's location!"
 tags: ["Sons of the Forest", "Stun Baton", "POIs", "Item Location", "Map"]
 keywords: ["Sons of the Forest Stun Baton"]
+
 date: 2023-03-04T16:07:57-08:00
 draft: false
+
 series: ["Item Locations"]
 series_order: 24
 authors:
@@ -17,7 +19,7 @@ Where to find the Stun Baton and the requirements to obtain it in the Sons of th
 {{< /lead >}}
 
 ## Stun Baton in Sons of the Forest
-The Stun Baton is a blunt melee weapon that can be turned on to deal minor electrical damage and stun when attacking with it.
+The Stun Baton is a melee weapon that can be turned on to deal minor electrical damage and stun when attacking with it.
 The weapon doesn't have any durability, so there is no concern about it breaking. However, it does run on batteries. Similar to
 [the Flashlight](/sons-of-the-forest/guides/flashlight/), you will need to replace the batteries occasionally if you want to make use of the shock.
 

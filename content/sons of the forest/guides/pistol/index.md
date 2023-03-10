@@ -1,10 +1,13 @@
 ---
 title: "Pistol"
 description: "Where to find the Pistol and the requirements to obtain it in the Sons of the Forest."
-summary: "Where to find the Pistol and the requirements to obtain it. Click here to learn it's location!"
+summary: "Where to find the Pistol and the requirements to obtain it. Click here to learn its location!"
+tags: ["Sons of the Forest", "Pistol", "POIs", "Item Location", "Map"]
+keywords: ["Sons of the Forest Pistol"]
+
 date: 2023-03-05T19:07:57-08:00
 draft: false
-tags: ["Sons of the Forest", "Pistol", "POIs", "Item Location", "Map"]
+
 series: ["Item Locations"]
 series_order: 14
 authors:
@@ -12,27 +15,43 @@ authors:
 ---
 
 {{< lead >}}
-Where to find the Pistol and the requirements to obtain it.
+Where to find the Pistol and the requirements to obtain it in the Sons of the Forest.
 {{< /lead >}}
 
+## Pistol in Sons of the Forest
+The pistol is a ranged weapon that requires 9mm ammountion rounds in order to fire the gun. **TODO MORE INFO**
+
+The pistol has no durability, so there is no concern about losing the item due to this.
+
 ## Requirements to Obtain
-Some items have multiple locations or requirements to obtain them. Make sure to keep this in mind when looking over the map below.
-For the Pistol, no additional items are required. You just need to swim to the boat, climb aboard, and interact with it when you find it. 
+**None** - Some items require the player to solve a puzzle or use other collected items to obtain. For example, you may need to dig into the ground to find an item, so in situations like that, you will need a shovel. 
 
-## Map Location
-![](img/map.webp)
+Thankfully the Pistol is not one of the items that require additional items or puzzles to obtain it. Just swim up to it and collect it! However...
 
-## Pistol Location 1
-The green marker on the map above is location 1. Head to that spot on the map and swim out to the boat in the water. 
-Climb upon the boat (You will need to interact 'E' to do this.) and then pick up your new shiny pew pewer!
+**Shark Warning** - While there are no requirements to obtain the pistol, you do need to fight a shark after obtaining the pistol. As a shark will appear around the boat after you pick up the pistol. Attempting to swim to shore without killing the shark will result in your death as the shark is ruthless.
 
-![](featured.webp)
+## Pistol Map
+Below is a world map with all the known locations for the Pistol.
+![Sons of the Forest Pistol Map Location](img/map.webp)
 
-### WARNING
-There is a shark in the waters, so it's strongly suggested that you save before attempting to obtain the Pistol at this location.
-I had no problems getting onto the boat, it was leaving the boat that the shark became the problem for me. 
+The Pistol also has a GPS Marker in game, so if you follow the pink cirlce with the !, you will be head directly to it. 
 
-## More Locations
-There may be more locations for the Machete. If there are we will make sure to update the map with a more up-to-date version with the location(s).
+## Pistol Location #1
+The green marker on the map above is location 1. Head to that spot on the map and swim out to the boat in the water. Climb upon the boat (You will need to interact 'E' to do this.) and then pick up your new shiny pew pewer!
 
-Do you know of a spot that we've missed? Reach out to us on Discord with a screenshot of the location and we will update the guide with it! 
+![Sons of the Forest Pistol Location 1](featured.webp)
+
+## Tipes for Finding the Pistol
+Follow the West-most Pink ! Marker that is on your map as it will lead your directly to it. It will be the only GPS Marker in the water. That will be the best way to locate the Pistol.
+
+## More Possible Locations
+Currently, there is only 1 known location for the Pistol. More locations may come in future updates, but at this time players can only obtain it at the location above.
+We will make sure to update our map with any new spots when Sons of the Forest gets any new updates for the Stun Baton.
+
+## Obtain Once
+The Pistol can only be obtained once. If the item had other spawn locations (Which may happen in the future), they would despawn preventing you from picking up multiple versions of the item. This is how Sons of the Forest enables the players to have multiple options when looting major items. 
+
+## Conclusion
+There are no requirements for the Pistol and there is only 1 known location to obtain it. So, if you want to collect all the items in Sons of the Forest, make sure you head to the marked spot and collect your Pistol and kill that Shark!
+
+Additionally; we would like to know if you enjoyed our guide. Let us know what you think and provide any feedback you may feel would improve the quality of the guide. To do so, join us on [Discord](https://discord.gg/ZXp93XsKnN) and let us know! We would love to hear from you! 

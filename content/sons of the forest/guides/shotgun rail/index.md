@@ -2,9 +2,12 @@
 title: "Shotgun Rail"
 description: "Where to find the Shotgun Rail and the requirements to obtain it in the Sons of the Forest."
 summary: "Where to find the Shotgun Rail and the requirements to obtain it. Click here to learn its location!"
+tags: ["Sons of the Forest", "Shotgun Rail", "POIs", "Item Location", "Map"]
+keywords: ["Sons of the Forest Shotgun Rail"]
+
 date: 2023-03-05T16:07:57-08:00
 draft: false
-tags: ["Sons of the Forest", "Shotgun Rail", "POIs", "Item Location", "Map"]
+
 series: ["Item Locations"]
 series_order: 20
 authors:
@@ -12,24 +15,57 @@ authors:
 ---
 
 {{< lead >}}
-Where to find the Shotgun Rail and the requirements to obtain it.
+Where to find the Shotgun Rail and the requirements to obtain it in the Sons of the Forest.
 {{< /lead >}}
 
+## Shotgun Rail in Sons of the Forest
+The Shotgun Rail is an attachment for the Shotgun that enables you to modify your Shotgun. With the rail, you can add a flashlight and sights to your Shotgun. The rail also includes shell loops which enable you to store shells on the side for a faster reload.
+
+The Shotgun Rail has no durability, so there should be no concern about losing the item due to this. You do however, need the Shotgun to make any use of this item, so make sure you grab it first!
+
 ## Requirements to Obtain
-Some items have multiple locations or requirements to obtain them. Make sure to keep this in mind when looking over the map below.
-For the Shotgun Rail, no additional items are required. You just need to interact with it when you find it. 
+**None & Varies** - Some items require the player to solve a puzzle or use other collected items to obtain. For example, you may need to dig into the ground to find an item, so in situations like that, you will need a shovel. 
 
-## Map Location
+Depending on which location you go to for the Shotgun Rail will depend on the requirements for it. Check each section location for additional information on these requirements. 
 
-![](img/map.webp)
+## Shotgun Rail Map Location
+Below is a world map with all the known locations for the Shotgun Rail.
+![Sons of the Forest Shotgun Rail Map Location](img/map.webp)
 
 ## Shotgun Rail Location 1
-The green marker on the map above is location 1. Head to that spot on the map and look for the dead person up against a tent.
+**No Requirements to Obtain** - The green marker on the map above is location 1. Head to that spot on the map and look for the dead person up against a tent.
 Don't mind the dead body. Grab the Shotgun Rail and it will be added to the orange case in your inventory!
 
-![](featured.webp)
+![Sons of the Forest Shotgun Rail Location 1](featured.webp)
 
-## More Locations
-There may be more locations for the Shotgun Rail. If there are we will make sure to update the map with a more up-to-date version with the location(s).
+### Tips for Finding Location 1
+Head towards Location 1 on the map; when you reach the ocean area follow the ocean line until you run across two red boats. From there you should be able to see 2 tents towards the east near the cliff edge. Head towards the tents and pick up the Shotgun Rail from the dead body.
 
-Do you know of a spot that we've missed? Reach out to us on Discord with a screenshot of the location and we will update the guide with it! 
+### The Machete
+[The Machete](/sons-of-the-forest/guides/machete/) is **very** close to this location. It is strongly suggested that you pick up the Machete while you are here as it doesn't have any requirements to pick up.
+
+## Shotgun Rail Location 2
+**Coming Soon**
+
+### Tips for Finding Location 2
+**Coming Soon**
+
+## Shotgun Rail Location 3
+**Coming Soon**
+
+### Tips for Finding Location 3
+**Coming Soon**
+
+## More Possible Locations
+Currently, these 3 locations are the only known locations for the Shotgun Rail. More locations may come in future updates, but at this time players can obtain it at the locations above.
+We will make sure to update our map with any new spots when Sons of the Forest gets any new updates for the Shotgun Rail.
+
+## Obtain Once
+The Shotgun Rail can only be obtained once. After obtaining one the others will despawn preventing you from looting it from other locations. This is how Sons of the Forest enables the players to have multiple options when looting major items. 
+
+With that in mind, we suggest going after the Location 1 Spawn as it doesn't have any requirements to obtain and is easy to locate. 
+
+## Conclusion
+There are 3 different spawn locations for the Shotgun Rail and various requirements to obtain them based on which one you are after. Location 1 is the quickest and easiest to obtain as it's next to the ocean and has no requirements. While Location 3 is the hardest to obtain because it's in a bunker and requires a keycard to enter. 
+
+Additionally; we would like to know if you enjoyed our guide. Let us know what you think and provide any feedback you may feel would improve the quality of the guide. To do so, join us on [Discord](https://discord.gg/ZXp93XsKnN) and let us know! We would love to hear from you! 

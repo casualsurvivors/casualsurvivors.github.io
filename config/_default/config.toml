@@ -6,7 +6,7 @@
 baseURL = "https://casualsurvivors.github.io"
 defaultContentLanguage = "en"
 
-enableRobotsTXT = false
+enableRobotsTXT = true
 paginate = 20
 summaryLength = 0
 
