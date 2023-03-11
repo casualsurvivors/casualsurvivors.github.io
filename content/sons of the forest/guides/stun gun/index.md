@@ -19,7 +19,7 @@ Where to find the Stun Gun and the requirements to obtain it in the Sons of the 
 {{< /lead >}}
 
 ## Stun Gun in Sons of the Forest
-The Stun Gun is a single-shot ranged weapon that requires Stun Gun Ammo to fire. A sucessful hit with the Stun Gun will stun the target for a brief moment, so make sure you act fast after firing.
+The Stun Gun is a single-shot ranged weapon that requires Stun Gun Ammo to fire. A successful hit with the Stun Gun will stun the target for a brief moment, so make sure you act fast after firing.
 The weapon doesn't have any durability, so there is no concern about it breaking. It does not run on batteries as some might think.  So there is no concern about replacement batteries like [the Flashlight](/sons-of-the-forest/guides/flashlight/).
 
 ## Requirements for the Stun Gun
