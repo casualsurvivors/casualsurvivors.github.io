@@ -41,7 +41,7 @@ The green marker on the map above is location 1. Head to that spot on the map an
 
 ![Sons of the Forest Pistol Location 1](featured.webp)
 
-## Tipes for Finding the Pistol
+### Tips for Finding the Pistol
 Follow the West-most Pink ! Marker that is on your map as it will lead directly to it. It will be the only GPS Marker in the water. That will be the best way to locate the Pistol.
 
 ## Pistol Location #2
