@@ -1,7 +1,7 @@
 ---
 title: "Stun Baton"
 description: "Where to find the Stun Baton and the requirements to obtain it in the Sons of the Forest."
-summary: "Where to find the Stun Baton and the requirements to obtain it. Click here to learn it's location!"
+summary: "Where to find the Stun Baton and the requirements to obtain it. Click here to learn more about it!"
 tags: ["Sons of the Forest", "Stun Baton", "POIs", "Item Location", "Map"]
 keywords: ["Sons of the Forest Stun Baton"]
 

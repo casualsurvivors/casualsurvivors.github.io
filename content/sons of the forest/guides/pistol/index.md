@@ -1,7 +1,7 @@
 ---
 title: "Pistol"
 description: "Where to find the Pistol and the requirements to obtain it in the Sons of the Forest."
-summary: "Where to find the Pistol and the requirements to obtain it. Click here to learn its location!"
+summary: "Where to find the Pistol and the requirements to obtain it. Click here to learn more about it!"
 tags: ["Sons of the Forest", "Pistol", "POIs", "Item Location", "Map"]
 keywords: ["Sons of the Forest Pistol"]
 
@@ -45,10 +45,10 @@ The green marker on the map above is location 1. Head to that spot on the map an
 Follow the West-most Pink ! Marker that is on your map as it will lead directly to it. It will be the only GPS Marker in the water. That will be the best way to locate the Pistol.
 
 ## Pistol Location #2
-**Coming Soon** - Location Found; gathering data.
+**Coming Soon** - Location Found; gathering data. Does Require a Key Card.
 
 ## More Possible Locations
-Currently, there is only 1 known location for the Pistol. More locations may come in future updates, but at this time players can only obtain it at the location above.
+Currently, there is only 2 known location for the Pistol. More locations may come in future updates, but at this time players can only obtain it at the location above.
 We will make sure to update our map with any new spots when Sons of the Forest gets any new updates for the Stun Baton.
 
 ## Obtain Once
