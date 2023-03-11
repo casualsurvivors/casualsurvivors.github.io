@@ -19,7 +19,7 @@ Where to find the Pistol and the requirements to obtain it in the Sons of the Fo
 {{< /lead >}}
 
 ## Pistol in Sons of the Forest
-The pistol is a ranged weapon that requires 9mm ammountion rounds in order to fire the gun. **TODO MORE INFO**
+The pistol is a ranged weapon that requires 9mm ammunition rounds to fire the gun.
 
 The pistol has no durability, so there is no concern about losing the item due to this.
 
@@ -34,7 +34,7 @@ Thankfully the Pistol is not one of the items that require additional items or p
 Below is a world map with all the known locations for the Pistol.
 ![Sons of the Forest Pistol Map Location](img/map.webp)
 
-The Pistol also has a GPS Marker in game, so if you follow the pink cirlce with the !, you will be head directly to it. 
+The Pistol also has a GPS Marker, so if you follow the pink circle with the !, you will head directly to it. 
 
 ## Pistol Location #1
 The green marker on the map above is location 1. Head to that spot on the map and swim out to the boat in the water. Climb upon the boat (You will need to interact 'E' to do this.) and then pick up your new shiny pew pewer!
@@ -42,7 +42,10 @@ The green marker on the map above is location 1. Head to that spot on the map an
 ![Sons of the Forest Pistol Location 1](featured.webp)
 
 ## Tipes for Finding the Pistol
-Follow the West-most Pink ! Marker that is on your map as it will lead your directly to it. It will be the only GPS Marker in the water. That will be the best way to locate the Pistol.
+Follow the West-most Pink ! Marker that is on your map as it will lead directly to it. It will be the only GPS Marker in the water. That will be the best way to locate the Pistol.
+
+## Pistol Location #2
+**Coming Soon** - Location Found; gathering data.
 
 ## More Possible Locations
 Currently, there is only 1 known location for the Pistol. More locations may come in future updates, but at this time players can only obtain it at the location above.
