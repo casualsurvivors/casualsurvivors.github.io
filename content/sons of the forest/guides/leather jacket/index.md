@@ -5,7 +5,7 @@ summary: "Where to find the Leather Jacket and the requirements to obtain it. Cl
 tags: ["Sons of the Forest", "Leather Jacket", "POIs", "Item Location", "Map"]
 keywords: ["Sons of the Forest Leather Jacket"]
 
-date: 2023-03-10T16:07:57-08:00
+date: 2023-03-06T01:00:00-08:00
 draft: false
 
 series: ["Clothing Locations"]
@@ -21,7 +21,7 @@ Where to find the Leather Jacket and the requirements to obtain it in the Sons o
 ## Leather Jacket in Sons of the Forest
 The Leather Jacket is cloth gear that will protect you against the weather a bit better than your default clothing will. 
 
-The Leather Jacket doesn't have any durability, so there is no concern about it breaking.
+The Leather Jacket has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
 
 ## Requirements for the Leather Jacket
 **Cave & Combat** - Some items require the player to solve a puzzle or use other collected items to obtain. For example, you may need to dig into the ground to find an item, so in situations like that, you will need a shovel. 

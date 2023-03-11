@@ -5,7 +5,7 @@ summary: "Where to find the Stun Gun and the requirements to obtain it. Click he
 tags: ["Sons of the Forest", "Stun Gun", "POIs", "Item Location", "Map"]
 keywords: ["Sons of the Forest Stun Gun"]
 
-date: 2023-03-10T16:07:57-08:00
+date: 2023-03-06T02:00:00-08:00
 draft: false
 
 series: ["Item Locations"]

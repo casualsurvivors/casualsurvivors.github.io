@@ -5,7 +5,7 @@ summary: "Where to find the Rope Gun and the requirements to obtain it. Click he
 tags: ["Sons of the Forest", "Rope Gun", "POIs", "Item Location", "Map"]
 keywords: ["Sons of the Forest Rope Gun"]
 
-date: 2023-03-06T02:02:57-08:00
+date: 2023-03-07T02:02:57-08:00
 draft: false
 
 series: ["Item Locations"]
