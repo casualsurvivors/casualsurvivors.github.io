@@ -51,9 +51,8 @@ Once inside the cave, 4 cave lights will help brighten up your path. The 4th lig
 
 ![Sons of the Forest Stun Gun 4th Light](img/fourthlight.webp)
 
-### The Stun Gun
-You are encouraged to pick up the [Stun Gun](/sons-of-the-forest/guides/stun-gun/) before obtaining the Rebreather as you will need to return to the cave for it. It is not a required item, however, so if you are not concerned about having it you can leave it behind.
-
+## Other Nearby Items 
+You are encouraged to pick up the [Stun Gun](/sons-of-the-forest/guides/stun-gun/) before obtaining the Rebreather. If you fall off the ledge before obtaining it, you will need to enter the cave again. It is not a required item, however, so if you are not concerned about having it you can leave it behind. The [Leather Jacket](/sons-of-the-forest/guides/leather-jacket/) can be found in the same room as the [Stun Gun](/sons-of-the-forest/guides/stun-gun/).
 
 ## More Possible Locations
 Currently, there is only 1 known location for the Rebreather. More locations may come in future updates, but at this time players can only obtain it at the location above.
