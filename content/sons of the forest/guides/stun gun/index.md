@@ -45,7 +45,10 @@ Once inside the cave, 4 cave lights will help brighten up your path. The 4th lig
 
 ![Sons of the Forest Stun Gun 4th Light](img/fourthlight.webp)
 
-If you've entered a room with a cliff and 2 additional cave lights, you have taken a left at the fork and will need to head back. That's the room for the [Rebreather](/sons-of-the-forest/guides/rebreather/) however if you attempt to collect it now you will not be able to turn back for the Stun Gun.
+If you've entered a room with a cliff and 2 additional cave lights, you have taken a left at the fork and will need to head back. That's the room for the [Rebreather](/sons-of-the-forest/guides/rebreather/), however, if you attempt to collect that now you will not be able to turn back for the Leather Jacket.
+
+## Other Nearby Items 
+In the same room as the Stun Gun, the [Leather Jacket](/sons-of-the-forest/guides/leather-jacket/) can be found to the left while facing the body as you enter the room. Additionally, the [Rebreather](/sons-of-the-forest/guides/rebreather/) can be found by taking a left at the fork at the 4th light. 
 
 ## More Possible Locations
 Currently, there is only 1 known location for the Stun Gun. More locations may come in future updates, but at this time players can only obtain it at the location above.
