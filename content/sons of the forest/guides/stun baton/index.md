@@ -9,7 +9,7 @@ date: 2023-03-04T16:07:57-08:00
 draft: false
 
 series: ["Item Locations"]
-series_order: 24
+series_order: 26
 authors:
   - "mala"
 ---
