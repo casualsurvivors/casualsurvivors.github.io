@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Welcome! 
+Welcome to your guide to survival here at Casual Survivors.
 {{< /lead >}}
 
 
