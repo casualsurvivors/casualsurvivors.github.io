@@ -42,7 +42,7 @@ The green marker labeled 1 on the map is the location of the bunker where you ca
 ### Tips for Finding the Maintenance Keycard
 Head towards the location on the map and look for a golf kart and 2 construction levelers on yellow stands (see below). As you get closer, a **pulsing green circle** will appear near the area to let you know there is something there. Once you find the location, walk in the middle of all 3 objects and you should see a shovel icon letting you know that you need to dig here. Well, do just that! Dig using your [Shovel](/sons-of-the-forest/guides/shovel/) to access the Bunker.
 
-![Sons of the Forest Maintenance Keycard Zip Line](img/area.webp)
+![Sons of the Forest Maintenance Keycard Digging Location](img/area.webp)
 
 ### More Items Nearby
 The [Laser Sight](/sons-of-the-forest/guides/laser-sight/), [Firefighter Axe](/sons-of-the-forest/guides/firefighter-axe/), and [Tuxedo](/sons-of-the-forest/guides/tuxedo/) can all be found within this bunker as well. Make sure you pick them all up while you are visiting this spot!
