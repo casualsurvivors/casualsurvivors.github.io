@@ -21,7 +21,7 @@ Where to find the Maintenance Keycard and the requirements to obtain it in the S
 ## Maintenance Keycard in Sons of the Forest
 The Maintenance Keycard is a key item that gives you access to certain bunker doors around the game. 
 
-The Maintenance has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
+The Maintenance Keycard has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
 
 ## Requirements to Obtain
 **Gun Rope, Rebreather, & Shovel** - Some items require the player to solve a puzzle or use other collected items to obtain. For example, you may need to dig into the ground to find an item, so in situations like that, you will need a  Shovel. 
