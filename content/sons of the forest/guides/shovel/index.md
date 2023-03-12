@@ -55,7 +55,7 @@ Keep exploring the cave until you reach another spot where you need to use your 
 Just a little bit further after coming out of the water and you will find the shovel on the dead body of a maintenance crew member. 
 
 ### WARNING (Spoilers)
-When heading towards the entrance of the cave to exit, you might recall a wall that looks like it could have something behind it. A Sluggy will burst through the wall for a surprise attack! So be on guard as you are leaving the cave. You can take the path that the Sluggy opened up for you to head towards the entrance of the cave to exit.
+When heading towards the entrance of the cave to exit, you might recall a wall that looks like it could have something behind it. A Sluggy will burst through the wall for a surprise attack! So be on guard as you are leaving the cave. You can take the path that the Sluggy opened up for you to exit the cave.
 
 ### More Items Nearby
 The [Flashlight Attachment](/sons-of-the-forest/guides/flashlight-attachment/), and [Wet Suit](/sons-of-the-forest/guides/wet-suit/) can be found further in this cave as well. You should have already looted them along the way to the Shovel, however, if you haven't make sure to keep an eye out for them as you are heading back out.
