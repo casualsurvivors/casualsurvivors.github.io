@@ -26,7 +26,7 @@ The Maintenance Keycard has no durability, doesn't require additional items, and
 ## Requirements to Obtain
 **Gun Rope, Rebreather, & Shovel** - Some items require the player to solve a puzzle or use other collected items to obtain. For example, you may need to dig into the ground to find an item, so in situations like that, you will need a  Shovel. 
 
-The Maintenance Keycard requires the [Gun Rope](/sons-of-the-forest/guides/rope-gun/), [Rebreather](/sons-of-the-forest/guides/rebreather/), and [Shovel](/sons-of-the-forest/guides/shovel/) to access the location for the Maintenance Keycard.
+The Maintenance Keycard requires the [Gun Rope](/sons-of-the-forest/guides/rope-gun/), [Rebreather](/sons-of-the-forest/guides/rebreather/), and [Shovel](/sons-of-the-forest/guides/shovel/) to access the bunker with it.
 
 To be exact, you only need the **Shovel to access the Bunker** and gain access to all the contents within. However, to access the Shovel you need the Gun Rope and the Rebreather, which is why you need all 3 of these items to access the Maintenance Keycard. Meaning, if a new method of obtaining the Shovel without the Gun Rope & Rebreather would lower the item requirements for the Maintenance Keycard. 
 
