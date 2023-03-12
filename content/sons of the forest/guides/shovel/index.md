@@ -21,7 +21,7 @@ Where to find the Shovel and the requirements to obtain it in the Sons of the Fo
 ## Shovel in Sons of the Forest
 The Shovel is a tool that you can use to dig up the ground to find hidden bunkers, items, and unlock achievements. 
 
-The Cross has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
+The Shovel has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
 
 ## Requirements to Obtain
 **Cave, Gun Rope, & Rebreather** - Some items require the player to solve a puzzle or use other collected items to obtain. For example, you may need to dig into the ground to find an item, so in situations like that, you will need a Shovel. 
