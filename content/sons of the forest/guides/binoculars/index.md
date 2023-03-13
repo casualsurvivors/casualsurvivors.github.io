@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Binoculars"]
 date: 2023-03-12T15:00:00-08:00
 draft: false
 
-series: ["Clothing Locations"]
-series_order: 5
+series: ["Item Locations"]
+series_order: 1
 authors:
   - "mala"
 ---
@@ -19,7 +19,7 @@ Where to find the Binoculars and the requirements to obtain it in the Sons of th
 {{< /lead >}}
 
 ## Binoculars in Sons of the Forest
-The Binocular is a tool you can use to look off in the distance. Simply hold the left click while you have them equipped to look through them. Sadly this does require both hands meaning you can't hold anything else to do this. 
+The Binoculars is a tool you can use to look off in the distance. Simply hold the left click while you have them equipped to look through them. Sadly this does require both hands meaning you can't hold anything else to do this. 
 
 The Binoculars has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
 
@@ -36,7 +36,7 @@ The green marker labeled 1 on the map is the location of the Binoculars. Head to
 ![Sons of the Forest Binoculars Location 1](featured.webp)
 
 ### Other Items Nearby
-There are no other items in the direct area of the Binoculars, however, there are a few other items close to you. Here are a few other items in a short walking distance from you; [Shotgun Rail](/sons-of-the-forest/guides/shotgun-rail/), [Glider](/sons-of-the-forest/guides/glider/), [Camouflage Suit](/sons-of-the-forest/guides/camouflage-suit/), and Shotgun (Coming Soon).
+There are no other items in the direct area of the Binoculars, however, there are a few other items close to you. Here are a few other items in a short walking distance from you; [Shotgun Rail](/sons-of-the-forest/guides/shotgun-rail/), [Glider](/sons-of-the-forest/guides/glider/), [Camouflage Suit](/sons-of-the-forest/guides/camouflage-suit/), and [Shotgun](/sons-of-the-forest/guides/shotgun/).
 
 ## More Possible Locations
 Currently, there is only 1 known location for the Binoculars. More locations may come in future updates, but at this time players can only obtain it at the location above.
