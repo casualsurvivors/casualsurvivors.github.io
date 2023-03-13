@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Glider"]
 date: 2023-03-12T12:07:57-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 31
+series: ["Tool Locations"]
+series_order: 5
 authors:
   - "mala"
 ---

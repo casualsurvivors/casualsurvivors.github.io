@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Maintenance Keycard"]
 date: 2023-03-11T02:00:00-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 14
+series: ["Tool Locations"]
+series_order: 7
 authors:
   - "mala"
 ---

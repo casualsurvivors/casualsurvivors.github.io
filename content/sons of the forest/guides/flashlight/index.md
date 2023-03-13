@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Flashlight"]
 date: 2023-03-05T19:07:57-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 8
+series: ["Tool Locations"]
+series_order: 4
 authors:
   - "mala"
 ---

@@ -9,7 +9,7 @@ date: 2023-03-08T00:01:00-08:00
 draft: false
 
 series: ["Clothing Locations"]
-series_order: 2
+series_order: 9
 authors:
   - "mala"
 ---

@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Shovel"]
 date: 2023-03-08T00:03:00-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 23
+series: ["Tool Locations"]
+series_order: 10
 authors:
   - "mala"
 ---

@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Shotgun"]
 date: 2023-03-12T17:00:00-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 5
+series: ["Weapon/Attachment Locations"]
+series_order: 12
 authors:
   - "mala"
 ---

@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Machete"]
 date: 2023-03-05T18:07:57-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 13
+series: ["Weapon/Attachment Locations"]
+series_order: 7
 authors:
   - "mala"
 ---

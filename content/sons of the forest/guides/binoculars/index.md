@@ -8,7 +8,7 @@ keywords: ["Sons of the Forest Binoculars"]
 date: 2023-03-12T15:00:00-08:00
 draft: false
 
-series: ["Item Locations"]
+series: ["Tool Locations"]
 series_order: 1
 authors:
   - "mala"

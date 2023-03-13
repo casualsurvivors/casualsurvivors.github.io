@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Flashlight Attachment"]
 date: 2023-03-08T00:02:00-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 9
+series: ["Weapon/Attachment Locations"]
+series_order: 5
 authors:
   - "mala"
 ---

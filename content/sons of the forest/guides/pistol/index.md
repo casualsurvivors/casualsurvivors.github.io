@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Pistol"]
 date: 2023-03-05T19:07:57-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 16
+series: ["Weapon/Attachment Locations"]
+series_order: 9
 authors:
   - "mala"
 ---

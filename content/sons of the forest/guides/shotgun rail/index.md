@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Shotgun Rail"]
 date: 2023-03-05T16:07:57-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 22
+series: ["Weapon/Attachment Locations"]
+series_order: 13
 authors:
   - "mala"
 ---

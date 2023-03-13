@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Rebreather"]
 date: 2023-03-06T03:00:00-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 19
+series: ["Tool Locations"]
+series_order: 8
 authors:
   - "mala"
 ---

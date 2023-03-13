@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Laser Sight"]
 date: 2023-03-11T03:00:00-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 12
+series: ["Weapon/Attachment Locations"]
+series_order: 6
 authors:
   - "mala"
 ---

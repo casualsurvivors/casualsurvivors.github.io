@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Cross"]
 date: 2023-03-07T01:02:57-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 5
+series: ["Weapon/Attachment Locations"]
+series_order: 2
 authors:
   - "mala"
 ---

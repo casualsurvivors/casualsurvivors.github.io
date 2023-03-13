@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Rope Gun"]
 date: 2023-03-07T02:02:57-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 21
+series: ["Tool Locations"]
+series_order: 9
 authors:
   - "mala"
 ---

@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Firefighter Axe"]
 date: 2023-03-11T06:00:00-08:00
 draft: false
 
-series: ["Item Locations"]
-series_order: 7
+series: ["Weapon/Attachment Locations"]
+series_order: 4
 authors:
   - "mala"
 ---
