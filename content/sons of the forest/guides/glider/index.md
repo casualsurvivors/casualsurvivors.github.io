@@ -8,6 +8,9 @@ keywords: ["Sons of the Forest Glider"]
 date: 2023-03-12T12:07:57-08:00
 draft: false
 
+showDateUpdated: true
+lastmod: 2023-03-17T12:07:57-08:00
+
 series: ["Tool Locations"]
 series_order: 5
 authors:
@@ -19,7 +22,7 @@ Where to find the Glider and the requirements to obtain it in the Sons of the Fo
 {{< /lead >}}
 
 ## Glider in Sons of the Forest
-The Glider is a tool that lets you glide through the sky and scout out areas from far above. Just be careful not to fall to your death!
+The Glider is a tool that lets you glide through the sky and scout out areas from far above. It's NOT an item you can keep in your bags and you will have to keep it with you if you wish to keep the glider. 
 
 The Glider has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
 
@@ -55,14 +58,42 @@ Head to the location 5 icon on the map for this Glider. It's located in a small 
 
 ![Sons of the Forest Glider Location 5](img/gliderlocation5.webp)
 
+## Glider Location 6
+Just down the hill next to a cannibal camp, so expect some resistance if you want to go after this one. 
+![Sons of the Forest Glider Location 6](img/gliderlocation6.webp)
+
+## Glider Location 7
+High up on the cliff next to the path. Make sure not to fall to your death when picking it up!
+![Sons of the Forest Glider Location 7](img/gliderlocation7.webp)
+
+## Glider Location 8
+At a camp located on the edge of a snow ridge. Look for the 2 tents for easy finding. 
+![Sons of the Forest Glider Location 8](img/gliderlocation8.webp)
+
+## Glider Location 9
+Another grassy ridge where you can pick up the glider.
+![Sons of the Forest Glider Location 9](img/gliderlocation9.webp)
+
+## Glider Location 10
+Shockingly, this one is not on any ridge and is in a base camp area. It's great to get and then run up a ridge to fly off somewhere. 
+![Sons of the Forest Glider Location 10](img/gliderlocation10.webp)
+
+## Glider Location 11
+Right above the lake on the rocky ridge. Great for starters.
+![Sons of the Forest Glider Location 11](img/gliderlocation11.webp)
+
 ## More Possible Locations
-Currently, there are 5 known locations for the Glider. More locations may come in future updates, but at this time players can only obtain it at the location above.
+Currently, there are 11 known locations for the Glider. More locations may come in future updates, but at this time players can only obtain it at the location above.
 We will make sure to update our map with any new spots when Sons of the Forest gets any new updates for the Glider or if the community finds more spawn locations.
 
-## Obtain Once
-The Glider can only be obtained once. After obtaining one the others will despawn preventing you from looting it from other locations. This is how Sons of the Forest enables the players to have multiple loot options with major items. 
+## Obtain Many
+Each instance of the Glider will stay in the game as you play. Other instances of the glider will not despawn if you loot one as these are not permanently looted items. So, unlike other items in-game this one will behave slightly differently than what you are used to. 
 
 ## Conclusion
 There are no requirements for the Glider and there are many known locations to obtain it. So, if you want to collect all the items in Sons of the Forest, make sure you head to one of the markers on the map above and collect your Glider!
 
 Additionally; we would like to know if you enjoyed our guide. Let us know what you think and provide any feedback you may feel would improve the quality of the guide. To do so, join us on [Discord](https://discord.gg/ZXp93XsKnN) and let us know! We would love to hear from you! 
+
+### Guide Updates
+- [Mar 15th, 2023] Added more spawn locations of the Glider.
+
