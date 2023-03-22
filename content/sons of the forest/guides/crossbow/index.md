@@ -47,7 +47,7 @@ Once past the Maintenace Door, you will enter a hydroponics research area. In th
 ![Sons of the Forest Crossbow Hint](img/crossbowhint.webp)
 
 ### More Items Nearby
-The Dress and VIP Keycard are also in this bunker. Make sure to check out those guides for more information about them.
+The Dress and [VIP Keycard](/sons-of-the-forest/guides/vip-keycard/) are also in this bunker. Make sure to check out those guides for more information about them.
 
 ## More Possible Locations
 Currently, there is only 1 known location for the Crossbow. More locations may come in future updates, but at this time players can only obtain it at the location above.
