@@ -63,6 +63,9 @@ We will make sure to update our map with any new spots when Sons of the Forest g
 ## Obtain Once
 The Leather Jacket can only be obtained once. If the item had other spawn locations (Which may happen in the future), they would despawn preventing you from picking up multiple versions of the item. This is how Sons of the Forest enables the players to have multiple options when looting major items. 
 
+## Achievements 
+The Leather Jacket is an item required for the FASHIONISTA achievement. To earn this achievement, you need to gather all the possible clothing items. Check this Article's Series for the other locations of the clothes. 
+
 ## Conclusion
 You have to explore a cave for the Leather Jacket and there is only 1 known location to obtain it. So, if you want to collect all the items in Sons of the Forest, make sure you head to the marked spot and collect your Leather Jacket!
 
