@@ -19,8 +19,7 @@ Where to find the Silencer and the requirements to obtain it in the Sons of the 
 {{< /lead >}}
 
 ## Silencer in Sons of the Forest
-The Silencer is a [Pistol](/sons-of-the-forest/guides/pistol/) attachment used to make your shots silenced. To combine the Silencer with the Pistol, you will need the [Pistol Rail](/sons-of-the-forest/guides/pistol-rail/) to do so. 
-
+The Silencer is a [Pistol](/sons-of-the-forest/guides/pistol/) attachment used to make your shots silenced. Combine the Silencer with the Pistol to add the attachment.
 
 ## Requirements to Obtain
 **Varries** - Some items require the player to solve a puzzle or use other collected items to obtain. For example, you may need to dig into the ground to find an item, so in situations like that, you will need a Shovel. Please check each item's location requirements for more information.
