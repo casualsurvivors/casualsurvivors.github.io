@@ -8,7 +8,7 @@ keywords: ["Sons of the Forest Hoodie"]
 date: 2023-04-02T03:10:57-08:00
 draft: false
 
-series: ["Tool Locations"]
+series: ["Clothing Locations"]
 series_order: 4
 authors:
   - "mala"
