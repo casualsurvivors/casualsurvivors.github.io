@@ -60,22 +60,28 @@ Head towards Location 3 on the map. This one is a bit tricky as the area isn't t
 ### Tips for Finding Location 3
 Head towards Location 3 on the map. As you get closer, a pulsing green beacon will show up on your map. Head directly towards it to find the cave entrance that leads into the bunker. Once inside, you will need to use the [Maintenance Keycard](/sons-of-the-forest/guides/maintenance-keycard/) to progress further into the bunker.
 
-When entering into the bar area, directly accross from the entrance there is another door that requires a Keycard for entry. However, the [VIP Keycard](/sons-of-the-forest/guides/vip-keycard/) is required to enter. Obtain it and then open this door to gain entry to the Shotgun Rail Location 3. 
+When entering the bar area, directly across from the entrance there is another door that requires a Keycard for entry. However, the [VIP Keycard](/sons-of-the-forest/guides/vip-keycard/) is required to enter. Obtain it and then open this door to gain entry to the Shotgun Rail Location 3. 
 
 ## Shotgun Rail Location 4
-**VIP Keycard, Maintenance Keycard, Gun Rope, Rebreather, & Shovel** are all required items in order to access Shotgun Rail located at spot 3. The [Gun Rope](/sons-of-the-forest/guides/gun-rope/), [Rebreather](/sons-of-the-forest/guides/rebreather/), [Shovel](/sons-of-the-forest/guides/shovel/), and the [Maintenance Keycard](/sons-of-the-forest/guides/maintenance-keycard/) are all requirements to obtain the [VIP Keycard](/sons-of-the-forest/guides/vip-keycard/). Technically all you need is the VIP Keycard to enter the location for the Shotgun Rail Location 4, however it's never just that simple. 
+**VIP Keycard, Maintenance Keycard, Gun Rope, Rebreather, & Shovel** are all required items to access Shotgun Rail located at spot 4. The [Gun Rope](/sons-of-the-forest/guides/gun-rope/), [Rebreather](/sons-of-the-forest/guides/rebreather/), [Shovel](/sons-of-the-forest/guides/shovel/), and [Maintenance Keycard](/sons-of-the-forest/guides/maintenance-keycard/) are all requirements to obtain the [VIP Keycard](/sons-of-the-forest/guides/vip-keycard/). Technically all you need is the VIP Keycard to enter the location for the Shotgun Rail Location 4, however, it's never just that simple. 
 
 ![Sons of the Forest Shotgun Rail Location 4](img/location4.webp)
 
 ### Tips for Finding Location 4
-Head towards Location 3 on the map. As you get closer, a pulsing green beacon will show up on your map. Head directly towards it to find the cave entrance that leads into the bunker. Once inside, you will need to use the [VIP Keycard](/sons-of-the-forest/guides/vip-keycard/) to progress further into the bunker. 
+Head towards Location 4 on the map. As you get closer, a pulsing green beacon will show up on your map. Head directly towards it to find the cave entrance that leads into the bunker. Once inside, you will need to use the [VIP Keycard](/sons-of-the-forest/guides/vip-keycard/) to progress further into the bunker. 
 
 Once you can access Level 2, the second living quarters you can enter will have the Shotgun Rail on the shelves for you to loot. While on the stairs before entering any of the hallways, you can see what level you are on (see below).
 
 ![Sons of the Forest Shotgun Rail Location 4 - Level 2 Hint](img/level2.webp)
 
+## Shotgun Rail Location 5
+**Maintenance Keycard, Gun Rope, Rebreather, & Shovel** are all required items to access Shotgun Rail located at spot 5. The [Gun Rope](/sons-of-the-forest/guides/gun-rope/), [Rebreather](/sons-of-the-forest/guides/rebreather/), and [Shovel](/sons-of-the-forest/guides/shovel/) are requirements for the [Maintenance Keycard](/sons-of-the-forest/guides/maintenance-keycard/) that you have to use to access the location for this Shotgun Rail.
+
+In the Security Room in the Food and Dinner Bunker, you can find the Shotgun rail on the shelving on the righthand side of the room upon entry.
+![Sons of the Forest Shotgun Rail Location 5](img/location5.webp)
+
 ## More Possible Locations
-Currently, these 4 locations are the only known locations for the Shotgun Rail. More locations may come in future updates, but at this time players can obtain it at the locations above.
+Currently, these 5 locations are the only known locations for the Shotgun Rail. More locations may come in future updates, but at this time players can obtain it at the locations above.
 We will make sure to update our map with any new spots when Sons of the Forest gets any new updates for the Shotgun Rail.
 
 ## Obtain Once
@@ -84,6 +90,6 @@ The Shotgun Rail can only be obtained once. After obtaining one the others will 
 With that in mind, we suggest going after the Location 1 Spawn as it doesn't have any requirements to obtain and is easy to locate. 
 
 ## Conclusion
-There are 4 different spawn locations for the Shotgun Rail and various requirements to obtain them based on which one you are after. Location 1 is the quickest and easiest to obtain as it's next to the ocean and has no requirements. While Location 3 & 4 are the hardest to obtain because they are in a bunker and that require a keycards to enter. However, Location 3 & 4 are on the path to story completion, so it's ultimately up to you when and how you want to obtain the Shotgun Rail. 
+There are 4 different spawn locations for the Shotgun Rail and various requirements to obtain them based on which one you are after. Location 1 is the quickest and easiest to obtain as it's next to the ocean and has no requirements. While Locations 3, 4, and 5 are the hardest to obtain because they are in a bunker that requires keycards to enter. However, Locations 3, 4, and 5 are on the path to story completion, so it's ultimately up to you when and how you want to obtain the Shotgun Rail. 
 
 Additionally; we would like to know if you enjoyed our guide. Let us know what you think and provide any feedback you may feel would improve the quality of the guide. To do so, join us on [Discord](https://discord.gg/ZXp93XsKnN) and let us know! We would love to hear from you! 
