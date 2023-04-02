@@ -45,12 +45,11 @@ The green marker labeled 2 on the map is the location of some beached boats wher
 
 ![Sons of the Forest Blazer Location 1](img/location2.webp)
 
-
 ### Other Items Nearby
 **NONE!** This spot is far away from other items, so it is suggested that you use Location 1 to pick up the Blazer. 
 
 ## More Possible Locations
-Currently, there is only 1 known location for the Blazer. More locations may come in future updates, but at this time players can only obtain it at the location above.
+Currently, there are only 2 known locations for the Blazer. More locations may come in future updates, but at this time players can only obtain it at the locations above.
 We will make sure to update our map with any new spots when Sons of the Forest gets any new updates for the Stun Baton.
 
 ## Achievements 
