@@ -28,7 +28,7 @@ The Maintenance Keycard has no durability, doesn't require additional items, and
 
 The [Gun Rope](/sons-of-the-forest/guides/gun-rope/), [Rebreather](/sons-of-the-forest/guides/rebreather/), and [Shovel](/sons-of-the-forest/guides/shovel/) are all requirements to obtain the Maintenance Keycard. They are not required while inside the Cave/Bunker to access the VIP Keycard, however.
 
-## VIP Keycard Map
+## VIP Keycard Map 
 Below is a world map with all the known locations for the VIP Keycard.
 ![Sons of the Forest VIP Keycard Location](img/map.webp)
 
@@ -43,7 +43,7 @@ Once inside the cave, you will need to enter the bunker and progress past the ma
 When progressing through the flooded area of the Bunker, there will be a fork in the hallway where you can turn left or continue forward. You will want to turn left and go up a few stairs to the security room where you will find the VIP Keycard. You know you are in the right room if you see 6 monitors/TVs mounted on the wall directly across from you where you enter.
 
 ### More Items Nearby
-The Dress and [Crossbow](/sons-of-the-forest/guides/crossbow/) are also in this bunker. Make sure to check out those guides for more information about them.
+The [Dress](/sons-of-the-forest/guides/dress/) and [Crossbow](/sons-of-the-forest/guides/crossbow/) are also in this bunker. Make sure to check out those guides for more information about them.
 
 ## More Possible Locations
 Currently, there is only 1 known location for the VIP Keycard. More locations may come in future updates, but at this time players can only obtain it at the location above.
