@@ -38,7 +38,16 @@ The green marker labeled 1 on the map is the location of the graveyard where you
 ![Sons of the Forest Blazer Location 1](featured.webp)
 
 ### Other Items Nearby
-There are no other items in the direct area of the Blazer, however, there are a few other items close to you. Here are a few other items in a short walking distance from you; [Shotgun Rail](/sons-of-the-forest/guides/shotgun-rail/), [Glider](/sons-of-the-forest/guides/glider/), Binoculars (Coming Soon), Shotgun (Coming Soon), and Verginia Outfits (Coming Soon).
+There are no other items in the direct area of the Blazer, however, there are a few other items close to you. Here are a few other items in a short walking distance from you; [Shotgun Rail](/sons-of-the-forest/guides/shotgun-rail/), [Glider](/sons-of-the-forest/guides/glider/), Binoculars (Coming Soon), Shotgun (Coming Soon), and Virginia Outfits (Coming Soon).
+
+## Blazer Location #2
+The green marker labeled 2 on the map is the location of some beached boats where you can find a Blazer. Search the southernmost boat on the shore and you will find the Blazer in the back area.
+
+![Sons of the Forest Blazer Location 1](img/location2.webp)
+
+
+### Other Items Nearby
+**NONE!** This spot is far away from other items, so it is suggested that you use Location 1 to pick up the Blazer. 
 
 ## More Possible Locations
 Currently, there is only 1 known location for the Blazer. More locations may come in future updates, but at this time players can only obtain it at the location above.
