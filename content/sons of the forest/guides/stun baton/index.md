@@ -9,7 +9,7 @@ date: 2023-03-04T16:07:57-08:00
 draft: false
 
 series: ["Weapon/Attachment Locations"]
-series_order: 16
+series_order: 17
 authors:
   - "mala"
 ---
