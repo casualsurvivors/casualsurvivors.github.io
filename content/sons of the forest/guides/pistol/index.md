@@ -44,8 +44,20 @@ The green marker on the map above is location 1. Head to that spot on the map an
 ### Tips for Finding the Pistol
 Follow the West-most Pink ! Marker that is on your map as it will lead directly to it. It will be the only GPS Marker in the water. That will be the best way to locate the Pistol.
 
-## Pistol Location #2
-**Coming Soon** - Location Found; gathering data. Does Require a Key Card.
+## Pistol Location 2
+Head towards the green location 2 marker on the map above. While heading to that location, look for the pulsing green icon on your map to appear so you can follow that. Once you reach the location, you will find the cave entrance.
+
+![Sons of the Forest Pistol Location 2 Cave Entrance](img/cave_entrance.webp)
+
+Once inside, you will need to use the Guest Keycard to progress further in. Once you can start exploring the residential areas you want to look inside the first residential room to find the Pistol next to the [Pistol Rail](/sons-of-the-forest/guides/pistol-rail/) on the ground. 
+
+![Sons of the Forest Pistol Rail Location 2](img/location2.webp)
+
+### Location 2 Requirements
+**Guest Keycard, Maintenance Keycard, Gun Rope, Rebreather, & Shovel** - Location 4 requires the [Gun Rope](/sons-of-the-forest/guides/rope-gun/), [Rebreather](/sons-of-the-forest/guides/rebreather/), [Shovel](/sons-of-the-forest/guides/shovel/), [Maintenance Keycard](/sons-of-the-forest/guides/maintenance-keycard/), and the [Guest Keycard](/sons-of-the-forest/guides/guest-keycard/) to access the bunker.
+
+### Items Nearby
+You can find a 3D Printer in this bunker, so if you still need to craft anything from that you can do so. Additionally, you can find the [Leather Suit](/sons-of-the-forest/guides/leather-suit/), [Pistol Rail](/sons-of-the-forest/guides/pistol-rail/), [Katana](/sons-of-the-forest/guides/katana/), [Shotgun Rail](/sons-of-the-forest/guides/shotgun-rail/), and [Golden Mask](/sons-of-the-forest/guides/golden-mask/) in this same bunker.
 
 ## More Possible Locations
 Currently, there is only 2 known location for the Pistol. More locations may come in future updates, but at this time players can only obtain it at the location above.
