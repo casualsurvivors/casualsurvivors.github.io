@@ -48,8 +48,13 @@ Once inside the cave, 4 cave lights will help brighten up your path. The 4th lig
 
 If you've entered a room with a cliff and 2 additional cave lights, you have taken a left at the fork and will need to head back. That's the room for the [Rebreather](/sons-of-the-forest/guides/rebreather/), however, if you attempt to collect that now you will not be able to turn back for the Leather Jacket.
 
-## Other Nearby Items 
+### Other Nearby Items 
 In the same room as the Leather Jacket, the [Stun Gun](/sons-of-the-forest/guides/stun-gun/) can be found next to the dead body hanging. Additionally, the [Rebreather](/sons-of-the-forest/guides/rebreather/) can be found by taking a left at the fork at the 4th light. 
+
+## The Leather Jacket Location #2
+The green marker labeled 2 on the map is the location of a crashed plane where you can find the Leather Jacket. Approach the opened door to find it on the seat next to the dead body. 
+
+![Sons of the Forest Leather Jacket](img/location2.webp)
 
 ## More Possible Locations
 Currently, there is only 1 known location for the Leather Jacket. More locations may come in future updates, but at this time players can only obtain it at the location above.
