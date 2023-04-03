@@ -35,14 +35,24 @@ Head to the location 1 icon on the map for the Can Opener. You are looking for a
 
 ![Sons of the Forest Can Opener on Body](featured.webp)
 
+## Can Opener Location 2
+Head to the location 2 icon on the map for the 2nd spot of the Can Opener. You are looking at the shoreline on the rocky parts. There are a lot of other items in the area, so look for a cluster of items to help locate it. 
+
+![Sons of the Forest Can Opener Location 2](img/location2.webp)
+
+## Can Opener Location 3
+Head to the location 3 icon on the map for the 3rd spot of the Can Opener. As you approach the area, a cave icon will appear on your map. Head towards that location and when you are close to it, look for an orange tent near the frozen water. 
+
+![Sons of the Forest Can Opener Location 3](img/location3.webp)
+
 ## More Possible Locations
-Currently, there is only 1 known location for the Can Opener. More locations may come in future updates, but at this time players can only obtain it at the location above.
+Currently, there are only 3 known locations for the Can Opener. More locations may come in future updates, but at this time players can only obtain it at the location above.
 We will make sure to update our map with any new spots when Sons of the Forest gets any new updates for the Can Opener.
 
 ## Obtain Once
 The Can Opener can only be obtained once. If the item had other spawn locations (Which may happen in the future), they would despawn preventing you from picking up multiple versions of the item. This is how Sons of the Forest enables the players to have multiple options when looting major items. 
 
 ## Conclusion
-There are no requirements for the Can Opener and there is only 1 known location to obtain it. So, if you want to collect all the items in Sons of the Forest, make sure you head to the marked spot and collect your Can Opener!
+There are no requirements for the Can Opener and there are a few options for you. So, if you want to collect all the items in Sons of the Forest, make sure you head to the marked spot and collect your Can Opener!
 
 Additionally; we would like to know if you enjoyed our guide. Let us know what you think and provide any feedback you may feel would improve the quality of the guide. To do so, join us on [Discord](https://discord.gg/ZXp93XsKnN) and let us know! We would love to hear from you! 
