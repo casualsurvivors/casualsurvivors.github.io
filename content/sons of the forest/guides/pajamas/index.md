@@ -51,7 +51,7 @@ Once in the back room, look on the corner shelves for the pajamas.
 **Maintenance Keycard, Gun Rope, Rebreather, & Shovel** - The [Gun Rope](/sons-of-the-forest/guides/rope-gun/) and [Rebreather](/sons-of-the-forest/guides/rebreather/) are requirements for the [Shovel](/sons-of-the-forest/guides/shovel/), which is what you need to access the Bunker of Maintenance Shaft A where you can obtain the [Maintenance Keycard](/sons-of-the-forest/guides/maintenance-keycard/). The Maintenance Keycard is the only item you need to access the area within the cave where the Pajams are located.
 
 ## Pajamas Location 2
-The green marker labeled 2 on the map is the location of the final bunker. You have to unlock the doors to gain entry. Once inside, head towards the lounge area shown below to find the Pajams. 
+The green marker labeled 2 on the map is the location of the final bunker. You have to unlock the doors to gain entry. Once inside, head towards the lounge area shown below to find the Pajamas. 
 
 The are located just on the righthand side of the bar room upon entry.
 ![Sons of the Forest Pajams Location 2](img/location2.webp)
