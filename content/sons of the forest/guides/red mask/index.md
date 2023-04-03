@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Red Mask"]
 date: 2023-04-02T05:00:57-08:00
 draft: false
 
-series: ["Tool Locations"]
-series_order: 4
+series: ["Clothing Locations"]
+series_order: 10
 authors:
   - "mala"
 ---

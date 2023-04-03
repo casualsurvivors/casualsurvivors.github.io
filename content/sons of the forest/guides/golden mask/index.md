@@ -8,8 +8,8 @@ keywords: ["Sons of the Forest Golden Mask"]
 date: 2023-04-02T08:08:08-08:00
 draft: false
 
-series: ["Tool Locations"]
-series_order: 4
+series: ["Clothing Locations"]
+series_order: 5
 authors:
   - "mala"
 ---
