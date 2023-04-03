@@ -34,13 +34,18 @@ To be exact, you only need the **Shovel to access the Bunker** and gain access t
 Below is a world map with all the known locations for the Shotgun.
 ![Sons of the Forest Shotgun Map Location](img/map.webp)
 
-## Shotgun Location #1
+## Shotgun Location 1
 The green marker labeled 1 on the map is the location of the Shotgun. There is a GPS Marker at the location, so it's easy to find if you follow the Pink "!" mark on your map in that location. You will find a simple stick-cross grave at this location and you will need to use your shovel to dig it up. There is no prompt for you to use the shovel.
 
 ![Sons of the Forest Shotgun Location 1](featured.webp)
 
 ### Other Items Nearby
 There are no other items in the direct area of the Shotgun, however, there are a few other items close to you. Here are a few other items in a short walking distance from you; [Shotgun Rail](/sons-of-the-forest/guides/shotgun-rail/), [Glider](/sons-of-the-forest/guides/glider/), [Camouflage Suit](/sons-of-the-forest/guides/camouflage-suit/), and [Binoculars](/sons-of-the-forest/guides/binoculars/).
+
+## Old Shotgun Location
+Before [Patch 2](/sons-of-the-forest/news/patch-2/#improvements), it was possible to find the shotgun in the final Bunker. 
+
+![Sons of the Forest Shotgun Location 2](img/location2.webp)
 
 ## More Possible Locations
 Currently, there is only 1 known location for the Shotgun. More locations may come in future updates, but at this time players can only obtain it at the location above.
