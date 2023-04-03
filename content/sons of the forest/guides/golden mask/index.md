@@ -19,10 +19,7 @@ Where to find the Golden Mask and the requirements to obtain it in the Sons of t
 {{< /lead >}}
 
 ## Golden Mask in Sons of the Forest
-The Golden Mask is a left-handed item that provides the user with light. The item doesn't have any durability, so there is no concern about it breaking. However, it does require batteries to make use of it.
-
-To check the battery levels of the Golden Mask, hover the mouse over it while in the inventory. The light blue bar under the item's icon is your indicator of how much power you have left (See the image below).
-![Golden Mask Battery Levels](img/Golden Mask.webp)
+The Golden Mask is a tool you can use to scare away certain cannibal tribes. Simply, the low-level cannibals who have eyes are likely to be frightened by your Golden Mask while in use. It has a better affects than the [Red Mask](/sons-of-the-forest/guides/red-mask/)
 
 ## Requirements to Obtain
 **Guest Keycard, Maintenance Keycard, Gun Rope, Rebreather, & Shovel** - Location 4 requires the [Gun Rope](/sons-of-the-forest/guides/rope-gun/), [Rebreather](/sons-of-the-forest/guides/rebreather/), [Shovel](/sons-of-the-forest/guides/shovel/), [Maintenance Keycard](/sons-of-the-forest/guides/maintenance-keycard/), and the [Guest Keycard](/sons-of-the-forest/guides/guest-keycard/) to access the bunker.
