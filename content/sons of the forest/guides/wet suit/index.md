@@ -21,6 +21,8 @@ Where to find the Wet Suit and the requirements to obtain it in the Sons of the 
 ## Wet Suit in Sons of the Forest
 The Wet Suit is cloth gear that will protect fully protect you in rain/water and has less fire/comfort levels than your default clothing.
 
+![Sons of the Forest Wet Suit](img/stats.webp)
+
 The Wet Suit has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
 
 ## Requirements to Obtain

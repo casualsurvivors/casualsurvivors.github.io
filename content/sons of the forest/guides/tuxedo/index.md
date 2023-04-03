@@ -21,6 +21,8 @@ Where to find the Tuxedo and the requirements to obtain it in the Sons of the Fo
 ## Tuxedo in Sons of the Forest
 The Tuxedo is cloth gear that provides better warmth and comfort levels than the standard Tactical Jacket you start with. The Tuxedo does have a lower water rating than the Tactical Jacket. 
 
+![Sons of the Forest Tuxedo Stats](img/stats.webp)
+
 The Tuxedo has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
 
 ## Requirements to Obtain

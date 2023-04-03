@@ -23,6 +23,8 @@ The Blazer is cloth gear that provides better warmth and comfort levels than the
 
 The Blazer is a weaker version of the [Tuxedo](/sons-of-the-forest/guides/tuxedo), so it's suggested to use the Tuxedo over the Blazer unless you are roleplaying of course!
 
+![Sons of the Forest Blazer Stats](img/stats.webp)
+
 The Blazer has no durability, doesn't require additional items, and can't be crafted into something else, so this is the final form.
 
 ## Requirements to Obtain
