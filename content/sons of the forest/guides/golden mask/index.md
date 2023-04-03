@@ -19,7 +19,7 @@ Where to find the Golden Mask and the requirements to obtain it in the Sons of t
 {{< /lead >}}
 
 ## Golden Mask in Sons of the Forest
-The Golden Mask is a tool you can use to scare away certain cannibal tribes. Simply, the low-level cannibals who have eyes are likely to be frightened by your Golden Mask while in use. It has a better affects than the [Red Mask](/sons-of-the-forest/guides/red-mask/)
+The Golden Mask is a tool you can use to scare away certain cannibal tribes. Simply, the low-level cannibals who have eyes are likely to be frightened by your Golden Mask while in use. It has better effects than the [Red Mask](/sons-of-the-forest/guides/red-mask/)
 
 ## Requirements to Obtain
 **Guest Keycard, Maintenance Keycard, Gun Rope, Rebreather, & Shovel** - Location 4 requires the [Gun Rope](/sons-of-the-forest/guides/rope-gun/), [Rebreather](/sons-of-the-forest/guides/rebreather/), [Shovel](/sons-of-the-forest/guides/shovel/), [Maintenance Keycard](/sons-of-the-forest/guides/maintenance-keycard/), and the [Guest Keycard](/sons-of-the-forest/guides/guest-keycard/) to access the bunker.
