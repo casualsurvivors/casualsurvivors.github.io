@@ -19,7 +19,7 @@ Below you can find the information for the first Hotfix for Sons of the Forest.
 
 Patch 2 - New cave system, Boss battle, Balance tweaks, Bug fixes and lots more!
 
- Features
+ ## Features
  - Added new demon boss to end of hell caves
  - Added dead cultists to map
  - New double story cannibal hut type added
