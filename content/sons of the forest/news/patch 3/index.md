@@ -94,7 +94,7 @@ Patch 3 - Knight V, Spring Trap, Night Vision, Solar Power and much much more!
  - Add an audio event for animations where cannibals hits club against ground
 
 ## Source
-If you are interested in checking out [the source](https://steamcommunity.com/games/1326470/announcements/detail/3691302139704242667) of the information yourself, we encourage you to do so!
+If you are interested in checking out [the source](https://store.steampowered.com/news/app/1326470/view/3689052159806402647) of the information yourself, we encourage you to do so!
 We here at Casual Survivors like to make our own archive of the patch notes to help better sort out the information.
 
 ## Conclusion
