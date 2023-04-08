@@ -82,8 +82,12 @@ Shockingly, this one is not on any ridge and is in a base camp area. It's great 
 Right above the lake on the rocky ridge. Great for starters.
 ![Sons of the Forest Glider Location 11](img/gliderlocation11.webp)
 
+## Glider Location 12
+Right above the lake on the rocky ridge. Great spot for those looking to explore the golf coarse.
+![Sons of the Forest Glider Location 12](img/gliderlocation12.webp)
+
 ## More Possible Locations
-Currently, there are 11 known locations for the Glider. More locations may come in future updates, but at this time players can only obtain it at the location above.
+Currently, there are 12 known locations for the Glider. More locations may come in future updates, but at this time players can only obtain it at the location above.
 We will make sure to update our map with any new spots when Sons of the Forest gets any new updates for the Glider or if the community finds more spawn locations.
 
 ## Obtain Many
