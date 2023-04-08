@@ -21,7 +21,7 @@ Where to find the Rebreather and the requirements to obtain it in the Sons of th
 ## Rebreather in Sons of the Forest
 The Rebreather is the equipment you wear so that you can breathe while underwater. It requires Air Tanks to use and comes full of air when you first find it, so there is no concern about having an Air Tank when you obtain it.
 
-To check the oxygen levels of the Rebreather, hover the mouse over it while in the inventory. The light blue bar under the item's icon is your indicator of how much power you have left (See the image below).
+To check the oxygen levels of the Rebreather, hover the mouse over it while in the inventory. The light blue bar under the item's icon is your indicator of how much air you have left (See the image below).
 ![Rebreather O2 Levels](img/rebreather.webp)
 
 ## Requirements to Obtain
