@@ -19,7 +19,7 @@ googleAnalytics = "G-QED37LM6KH"
   anchor = 'Center'
 
 [taxonomies]
-#  tag = "tags"
+  tag = "tags"
   category = "categories"
   author = "authors"
   series = "series"
