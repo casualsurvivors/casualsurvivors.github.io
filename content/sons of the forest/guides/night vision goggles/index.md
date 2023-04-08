@@ -31,9 +31,10 @@ The Night Vision Goggles are another light source for the player for seeing thin
 Once obtained, open your inventory and left-click on the Night Vision Goggles to equip them. Right-click to unequip them while in the inventory. Additionally, equipping them will update your light source hotkey (Default 'L') to turn them on and off. To switch back to the Lighter or [Flashlight](/sons-of-the-forest/guides/flashlight/) for your light source key, simply equip them from your inventory.
 
 Battery levels can be checked in two different locations. While equipped the batter levels are shown on the top right of the screen.
+![Sons of the Forest Night Vision Goggles Battery Levels](img/batterylevels.webp)
 
 While unequipped, you can check the blue bar in the inventory to see how much of a charge is remaining.
-![Sons of the Forest Night Vision Goggles Icon](/sons-of-the-forest/guides/night-vision-goggles/)
+![Sons of the Forest Night Vision Goggles Icon](img/stats.webp)
 
 #### Recharging the Power
 You do not need to manually recharge these goggles as the game will automagically repower them if you have batteries in your inventory. So, just make sure that you have extra batteries with you and pick up any you find while exploring.
