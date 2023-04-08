@@ -83,7 +83,7 @@ Right above the lake on the rocky ridge. Great for starters.
 ![Sons of the Forest Glider Location 11](img/gliderlocation11.webp)
 
 ## Glider Location 12
-Right above the lake on the rocky ridge. Great spot for those looking to explore the golf coarse.
+Right above the lake on the rocky ridge. Great spot for those looking to explore the golf course.
 ![Sons of the Forest Glider Location 12](img/gliderlocation12.webp)
 
 ## More Possible Locations
