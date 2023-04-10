@@ -14,10 +14,10 @@
   name = "Games"
    weight = 10
 
-#[[main]]
-#  name = "Deadpoly"
-#  parent = "Games"
-#  pageRef = "/deadpoly"
+[[main]]
+  name = "Deadpoly"
+  parent = "Games"
+  pageRef = "/deadpoly"
 
 #[[main]]
 #  name = "Grounded"
