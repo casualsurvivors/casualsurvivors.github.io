@@ -1,6 +1,6 @@
 ---
 title: "Deadpoly"
-description: "Your Casual resource for Deadpoly."
+description: "Your casual resource for Deadpoly."
 
 cascade:
   categories: ['Deadpoly']
