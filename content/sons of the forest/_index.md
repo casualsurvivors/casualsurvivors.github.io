@@ -1,7 +1,7 @@
 ---
 title: "Sons of the Forest - News & Guides"
-description: "Your Casual resource for Sons of the Forest."
-date: 2023-02-23
+description: "Your casual resource for Sons of the Forest."
+
 cascade:
   categories: ['Sons of the Forest']
 
