@@ -1,2 +1,5 @@
 # Ignore the generated Resource Folder
 resources/
+.frontmatter/
+.vscode/
+frontmatter.json
