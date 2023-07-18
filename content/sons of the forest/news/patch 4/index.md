@@ -11,7 +11,7 @@ authors:
 ---
 
 {{< lead >}}
-Sons of the Forest Patch 3
+Sons of the Forest Patch 4
 {{< /lead >}}
 
 Make sure you post any bugs or feedback you have on the [Steam Community Hub](https://steamcommunity.com/app/1326470/discussions/) so that the developers can see them!
