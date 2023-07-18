@@ -65,7 +65,7 @@ Patch 4 - Action cam, A.I. improvements, bug fixes, GPS changes and lots more!
  - GPS map updated to include all current ponds and lakes
  - Removed location pins from opening cutscene laptop screen
 
-##Fixes
+## Fixes
  - ‘I Dream of Sushi’ achievement is once again achievable
  - Fix for players game hanging when switching from empty slingshot to another ranged weapon that has swappable ammo
  - Player should no longer get into a bad state if they are spamming a weapon hotkey while opening a door with a keycard
